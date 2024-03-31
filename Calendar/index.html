@@ -1,0 +1,108 @@
+<html>
+    <head>
+        <title>Calendar</title>
+        <link rel="icon" href="pngwing.png" type="image/x-icon">
+        <link rel="shortcut" href="pngwing.png" type="image/x-icon">
+        <link rel="shortcut icon" href="pngwing.png" type="image/x-icon">    
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <h1 id="fullyear">
+                0000
+            </h1>
+            <h1 id="fullmonth">
+                XXX
+            </h1>
+        </header>
+        <div>
+            <button onclick="render(aa=aa-1)" style="width: 100px;" id="pre"> Pervious </button>
+            <button onclick="render(aa=aa+1)" style="width: 100px;" id="nxt"> Next </button>
+        </div>
+        <br><br>
+        <table>
+            <thead>
+                <tr >
+                    <th class="days">
+                        Sun
+                    </th>
+                    <th class="days">
+                        Mon
+                    </th>
+                    <th class="days">
+                        Tue
+                    </th>
+                    <th class="days">
+                        Wed
+                    </th>
+                    <th class="days">
+                        Thu
+                    </th>
+                    <th class="days">
+                        Fri
+                    </th>
+                    <th class="days">
+                        Sat
+                    </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+            </tr>
+            <tr>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+            </tr>
+            <tr>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+            </tr>
+            <tr>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+            </tr>
+            <tr>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+            </tr>
+            <tr id="dyn_date">
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+                <td class="dates"></td>
+            </tr>
+        </tbody>
+    </table>
+    <script src="script.js"></script>
+</body>
+</html>
