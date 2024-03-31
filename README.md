@@ -35,7 +35,7 @@
   My Certificates at
   <ul>
     <li>
-      [http://vaibhavbansal.rf.gd/Google_Clone/](https://drive.google.com/drive/folders/1QgztqvyEXCOSfukmPE9d1zRaz07hxQtH?usp=sharing)
+      https://drive.google.com/drive/folders/1QgztqvyEXCOSfukmPE9d1zRaz07hxQtH
     </li>
   </ul>
 </h3>
