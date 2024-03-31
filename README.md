@@ -11,7 +11,7 @@
   Calendar at
   <ul>
     <li>
-      http://vaibhavbansal.rf.gd/Portfolio/Calendar/
+      http://vaibhavbansal.rf.gd/Calendar/
     </li>
   </ul>
 </h3>
@@ -19,7 +19,7 @@
   Calculator at
   <ul>
     <li>
-      http://vaibhavbansal.rf.gd/Portfolio/Calculator/
+      http://vaibhavbansal.rf.gd/Calculator/
     </li>
   </ul>
 </h3>
@@ -27,7 +27,7 @@
   Google Front Page clone at
   <ul>
     <li>
-      http://vaibhavbansal.rf.gd/Portfolio/Google_Clone/
+      http://vaibhavbansal.rf.gd/Google_Clone/
     </li>
   </ul>
 </h3>
